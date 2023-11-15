@@ -7,8 +7,7 @@
 <hr><br>
 
 ## 📄 __Description__
-This project was carried out as part of challenge 1 of the Advanced Programming Topics module by the Universidad Virtual del Estado de Guanajuato (UVEG).
-The developed application is a calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The application's interface is built using Java Swing and utilizes the JTatto graphical library for interface design.
+This project was carried out as part of challenge 1 of the Advanced Programming Topics module of the Virtual University of the State of Guanajuato (UVEG). The application developed is a calculator that performs basic arithmetic operations such as addition, subtraction, multiplication and division. The application interface is built using Java Swing and uses the JTatto graphic library for the interface design.
 <div align="center">
   <img src="https://user-images.githubusercontent.com/95196431/229979978-bee445b2-2bc4-42aa-96a6-b3df2e7648ca.jpg" alt="Calculator interface"/>
 </div><br>
@@ -21,17 +20,17 @@ The developed application is a calculator that performs basic arithmetic operati
 </div>
 <br>
 
-## 📕 __How to use the application:__
-1. Enter the first numeric value by clicking on one of the numeric buttons from 0 to 9.
-2. Click on the arithmetic operation button (+, -, /, *) that you want to perform.
-3. Enter the second numeric value by clicking on one of the numeric buttons.
+## 📕 __How to use the application__
+1. Enter the first numerical value by clicking on one of the number buttons from 0 to 9.
+2. Click on the arithmetic operation button (+, -, /, *) you wish to perform.
+3. Enter the second numerical value by clicking on one of the number buttons.
 4. Press the "=" key to obtain the result of the operation.
 <div align="center">
   <img src="https://user-images.githubusercontent.com/95196431/229981471-62f39c7c-7a64-49be-a300-f660c0c5d2b6.gif" alt="How to use the application"/>
 </div>
 <br>
 
-## ⚙️ __System requirements:__
+## ⚙️ __System requirements__
 * Java Development Kit (JDK) 8.
 * JTatto library (included in the project).
 * NetBeans IDE.
